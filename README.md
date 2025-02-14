@@ -5,56 +5,15 @@ This project integrates Stable Diffusion with ComfyUI, providing a modular and u
 
 Features
 
-Stable Diffusion Integration: Leverages advanced latent diffusion models for high-quality image generation.
+1.Stable Diffusion Integration: Leverages advanced latent diffusion models for high-quality image generation.
 
-ComfyUI Workflow: Intuitive graphical interface for easy pipeline customization.
+2.ComfyUI Workflow: Intuitive graphical interface for easy pipeline customization.
 
-Text-to-Image Generation: Generates images based on textual descriptions.
+3.Text-to-Image Generation: Generates images based on textual descriptions.
 
-Efficient Sampling Methods: Supports various samplers to refine image outputs.
+4.Efficient Sampling Methods: Supports various samplers to refine image outputs.
 
-Customizable Prompts: Users can experiment with different artistic styles and settings.
-
-Installation
-
-Requirements
-
-Operating System: Windows, macOS, or Linux
-
-Hardware:
-
-GPU: NVIDIA RTX 3060 or higher (CUDA support recommended)
-
-RAM: Minimum 16GB (32GB recommended)
-
-Storage: At least 500GB SSD
-
-Software Dependencies:
-
-Python 3.8+
-
-PyTorch with CUDA (for GPU acceleration)
-
-ComfyUI
-
-Hugging Face Model Weights
-Usage
-
-Load Checkpoint: Select a Stable Diffusion model from the interface.
-
-Enter Prompt: Provide a detailed text description for the desired image.
-
-Adjust Parameters:
-
-Sampling Steps: Controls image refinement.
-
-CFG Scale: Adjusts adherence to text prompt.
-
-Denoising Strength: Determines the level of noise removal.
-
-Generate Image: Start the process and view the output.
-
-Save & Modify: Save generated images or tweak parameters for variations.
+5.Customizable Prompts: Users can experiment with different artistic styles and settings.
 
 Example Prompts
 
